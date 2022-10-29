@@ -1,0 +1,2 @@
+# PatikaOdevler_Operatorler
+PatikaOdevler_Operatorler
