@@ -1,0 +1,15 @@
+C:\Users\ktn48289\Documents\Pratikler\PatikaOdevler_Operatorler\bin\Debug\net6.0\PatikaOdevler_Operatorler.exe
+C:\Users\ktn48289\Documents\Pratikler\PatikaOdevler_Operatorler\bin\Debug\net6.0\PatikaOdevler_Operatorler.deps.json
+C:\Users\ktn48289\Documents\Pratikler\PatikaOdevler_Operatorler\bin\Debug\net6.0\PatikaOdevler_Operatorler.runtimeconfig.json
+C:\Users\ktn48289\Documents\Pratikler\PatikaOdevler_Operatorler\bin\Debug\net6.0\PatikaOdevler_Operatorler.dll
+C:\Users\ktn48289\Documents\Pratikler\PatikaOdevler_Operatorler\bin\Debug\net6.0\PatikaOdevler_Operatorler.pdb
+C:\Users\ktn48289\Documents\Pratikler\PatikaOdevler_Operatorler\obj\Debug\net6.0\PatikaOdevler_Operatorler.csproj.AssemblyReference.cache
+C:\Users\ktn48289\Documents\Pratikler\PatikaOdevler_Operatorler\obj\Debug\net6.0\PatikaOdevler_Operatorler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ktn48289\Documents\Pratikler\PatikaOdevler_Operatorler\obj\Debug\net6.0\PatikaOdevler_Operatorler.AssemblyInfoInputs.cache
+C:\Users\ktn48289\Documents\Pratikler\PatikaOdevler_Operatorler\obj\Debug\net6.0\PatikaOdevler_Operatorler.AssemblyInfo.cs
+C:\Users\ktn48289\Documents\Pratikler\PatikaOdevler_Operatorler\obj\Debug\net6.0\PatikaOdevler_Operatorler.csproj.CoreCompileInputs.cache
+C:\Users\ktn48289\Documents\Pratikler\PatikaOdevler_Operatorler\obj\Debug\net6.0\PatikaOdevler_Operatorler.dll
+C:\Users\ktn48289\Documents\Pratikler\PatikaOdevler_Operatorler\obj\Debug\net6.0\refint\PatikaOdevler_Operatorler.dll
+C:\Users\ktn48289\Documents\Pratikler\PatikaOdevler_Operatorler\obj\Debug\net6.0\PatikaOdevler_Operatorler.pdb
+C:\Users\ktn48289\Documents\Pratikler\PatikaOdevler_Operatorler\obj\Debug\net6.0\PatikaOdevler_Operatorler.genruntimeconfig.cache
+C:\Users\ktn48289\Documents\Pratikler\PatikaOdevler_Operatorler\obj\Debug\net6.0\ref\PatikaOdevler_Operatorler.dll

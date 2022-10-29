@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PatikaOdevler_Operatorler/1.0.0": {
+        "runtime": {
+          "PatikaOdevler_Operatorler.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PatikaOdevler_Operatorler/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
